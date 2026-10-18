@@ -1,0 +1,8 @@
+.DS_Store
+.build-cache/
+*.app/
+*.zip
+*.dmg
+models/
+.env
+.env.*
